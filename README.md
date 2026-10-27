@@ -9,3 +9,5 @@
 ## 公開
 
 このリポジトリはGitHub Pagesで配信するための公開リポジトリです。
+
+公開URL: https://voice-gear-showcase.pages.dev/
